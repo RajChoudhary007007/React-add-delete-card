@@ -1,0 +1,22 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-container {
+  list-style-type: none;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border: 2px solid black;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #183b56;
+  margin-bottom: 30px;
+}
